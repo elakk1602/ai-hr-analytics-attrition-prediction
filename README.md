@@ -57,7 +57,3 @@ AI-HR-Analytics-Project/
 ├── README.md
 
 
-
-## Author
-Akshya
-```
